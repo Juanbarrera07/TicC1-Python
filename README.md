@@ -1,1 +1,3 @@
-# TicC1-Python
+Python
+
+Juan David Barrera
